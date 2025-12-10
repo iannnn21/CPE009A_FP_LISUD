@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://github.com/user-attachments/assets/78c69ca9-18ce-466e-aca6-fae0e221faca"  />
+  <img width="500" src="https://github.com/user-attachments/assets/78c69ca9-18ce-466e-aca6-fae0e221faca"  />
 </div>
 
 ###
