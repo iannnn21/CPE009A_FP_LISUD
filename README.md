@@ -11,7 +11,7 @@
   <strong>CPE009A_FP_LISUD</strong>
 </h1>
   
-<p align="center" style="font-size: 30px;">
+<p align="center" style="font-size: 20px;">
   A Compilation of the Activites, Quizzes, and Projects in my CPE009A course.
   <br />
   <br />
