@@ -1,6 +1,5 @@
-<h1 align="center">
-Ｏｂｊｅｃｔ Ｏｒｉｅｎｔｅｄ Ｐｒｏｇｒａｍｉｎｇ Ｐｏｒｔｆｏｌｉｏ
-</h1>
+<h1 align="center"> Ｏｂｊｅｃｔ Ｏｒｉｅｎｔｅｄ Ｐｒｏｇｒａｍｉｎｇ<br> Ｐｏｒｔｆｏｌｉｏ
+
     
 <h1 align="center">
     <strong>Compilation of projects, assignments, and activities in my CPE009A course</strong>
