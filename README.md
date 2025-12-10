@@ -70,7 +70,7 @@
 
 ###
 
-<h1 align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<h1
+[![GitHub Streak](https://streak-stats.demolab.com?user=iannnn21%20&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iannnn21%20&theme=dark" alt="GitHub Streak" /></a>
+
 ###
