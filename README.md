@@ -1,8 +1,10 @@
 # CPE009A_FP_LISUD
-Compilation of projects, assignments, and activities in my CPE009A course
+<h1 align="center">
+    <strong>Compilation of projects, assignments, and activities in my CPE009A course</strong>
+</h1>
 
 
-LISUD IAN PAULO, Now, Edited
+
 <h1 align="center">
   <strong>CPE009A_FP_LISUD</strong>
 </h1>
