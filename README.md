@@ -2,7 +2,7 @@
 
     
 <h1 align="center">
-    <strong>Compilation of projects, assignments, and activities in my CPE009A course</strong>
+    Compilation of projects, assignments, and activities in my CPE009A course
 </h1>
 
 
